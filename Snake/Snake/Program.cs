@@ -11,7 +11,7 @@ namespace Snake
     {
         static void Main(string[] args)
         {
-            Point p1 = new Point(2, 3, '*');
+            /*Point p1 = new Point(2, 3, '*');
             p1.Draw();
             Thread.Sleep(500);
             Point p2 = new Point(5, 3, '#');
@@ -21,20 +21,20 @@ namespace Snake
             Point p5 = new Point(9, 10, '#');
 
 
-            Console.WriteLine();
+            Console.WriteLine();*/
+            Console.SetWindowSize(60,55);
 
+            HorizontalLines hl = new HorizontalLines(1,25,1,'@');
+            hl.Drow();
+            HorizontalLines hl1 = new HorizontalLines(1,26, 15, '&');
+            hl1.Drow();
 
-            List<Point> list1 = new List<Point>();
-            list1.Add(p1);
-            list1.Add(p2);
-            list1.Add(p3);
-            list1.Add(p4);
-            list1.Add(p5);
-            list1.Add(p1);
+            VerticalLine vl = new VerticalLine(1, 15, 1, '*');
+            vl.DrawVLine();
 
+            VerticalLine vl1 = new VerticalLine(1, 15, 25, '*');
+            vl1.DrawVLine();
 
-            foreach (Point elem in list1)
-                Console.WriteLine(elem);
 
             Console.ReadKey();
         }
