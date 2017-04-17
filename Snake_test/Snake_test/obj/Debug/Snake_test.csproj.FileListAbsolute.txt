@@ -1,0 +1,6 @@
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Snake\Snake_test\Snake_test\bin\Debug\Snake_test.exe.config
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Snake\Snake_test\Snake_test\bin\Debug\Snake_test.exe
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Snake\Snake_test\Snake_test\bin\Debug\Snake_test.pdb
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Snake\Snake_test\Snake_test\obj\Debug\Snake_test.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Snake\Snake_test\Snake_test\obj\Debug\Snake_test.exe
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Snake\Snake_test\Snake_test\obj\Debug\Snake_test.pdb
