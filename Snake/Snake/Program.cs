@@ -22,7 +22,7 @@ namespace Snake
 
 
             Console.WriteLine();*/
-            Console.SetWindowSize(60,55);
+            
 
             HorizontalLines hl = new HorizontalLines(1,25,1,'@');
             hl.Drow();
